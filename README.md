@@ -6,6 +6,9 @@
 ### <div align="center">Hey there, I'm Anchal, I am a professional data scientist👨‍💻 and I work at IBM as a Data & AI tech specialist since 2018🚀</div>  
   
 
+
+
+### About Me  
 - 🔭 I work with various clients in the Middle East to establish data strategies  
   
 
@@ -109,9 +112,7 @@
 
 
 ## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
+  
 
 <br/>  
 
