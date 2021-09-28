@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hey there, I'm Anchal, I am a professional data scientist👨‍💻 and I work at IBM as a Data & AI tech specialist since 2018🚀</div>  
+### <div align="center">Hey there, I'm Anchal, I am a data expert👨‍💻 and I work at Capgemini as a Senior Data Scientist🚀</div>  
   
 
 
